@@ -69,9 +69,8 @@ Estou sempre aberto para novas oportunidades e colaborações. Vamos conversar? 
 
 ## 📊 Estatísticas do GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leo-roque&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Leo" />
-</p>
+## Estatísticas do GitHub
+![Estatísticas do GitHub de Leo](https://github-readme-stats.vercel.app/api?username=leo&show_icons=true&theme=radical)
 
 ---
 
